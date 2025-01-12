@@ -1,5 +1,8 @@
-## Hi there 👋
+## Empresa de servicios integrales de informática.
 
+:briefcase: Nuestra empresa se especializa en el desarrollo de proyectos informáticos a medida.
+
+💻 Actualmente especializados en LINUX con PHP 8.0 + AJAX (Jquery 3.7) + BOOTSTRAP 5.3.2 + MariaDB / MySQL
 <!--
 **corebytes/corebytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ... git and github
